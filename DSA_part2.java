@@ -5,7 +5,7 @@ package DSA;
 // In thông tin sinh viên đó ra màn hình với định dạng như sau
 //Name: Nguyễn Văn A - Age 6 - Class 1A3
 // Chuyển sinh viên đó sang lớp 1A7
-// Xóa bỏ dữ liễn của sinh viên A
+// Xóa bỏ dữ liệu của sinh viên A
 
 // Part 1: Import and Main Class
 import java.util.Scanner;
